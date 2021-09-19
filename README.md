@@ -1,6 +1,4 @@
 ## Oiii! Eu sou um João Victoor
-## Em busca de conhecimento para me tornar um excelente desenvolvedor.
-
  <div>
   <a href="https://github.com/joaosouzaa01">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=joaosouzaa01&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
