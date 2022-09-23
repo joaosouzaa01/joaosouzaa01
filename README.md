@@ -1,4 +1,4 @@
-##  Oiii! Eu sou a Joãoo
+##  Oiii! Eu sou o João
 ##  Estou atualmente estudando Desenvolvimento de Sistemas  📚💻🖥📱
 
 <div>
