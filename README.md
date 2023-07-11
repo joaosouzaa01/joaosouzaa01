@@ -3,8 +3,8 @@
 
 <div>
   <a href="https://github.com/joaosouzaa01">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosouzaa01&layout=compact&langs_count=7&theme=github_dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaosouzaa01&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosouzaa01&layout=compact&langs_count=7&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaosouzaa01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 	
  	
 
@@ -20,11 +20,7 @@
  <img align="right" alt="desenho" src="https://user-images.githubusercontent.com/88406996/161604453-be56a950-089f-448e-9499-c3cf7fac1253.gif" height="150" width="260">
 </div>
    <br>
-<div>
-  <a href="https://www.instagram.com/lopesjajaoo/" target="_blank"><img height="29" width="100"  src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://discord.gg/zkNeZRN2" target="_blank"><img height="29" width="100" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord&logoColor=white" target="_blank"></a>
-  <a href = "mailto:teixeiralopesdesouzaj@gmail.com"><img height="29" width="100"  src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
-</div>
+
 
 
 
