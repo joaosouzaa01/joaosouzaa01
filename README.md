@@ -7,7 +7,7 @@
 <hr>
 <div align="center" >
 </div>
-<hr>
+
 <div align="center">
   <a href="https://github.com/joaosouzaa01">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaosouzaa01&show_icons=true&locale=en&layout=compact&langs_count=7&theme=nord" alt="joaosouzaa01" />
