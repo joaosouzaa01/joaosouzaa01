@@ -13,10 +13,18 @@
 
 
 <!-- GIT HUB STATUS -->
-<div align="center">
+<div>
     <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=joaosouzaa01&theme=transparent&background=26%2C1A5D7B%2C13445A6E&border=00000000&stroke=FFFFFF&ring=FFFFFF&dates=FFFFFF&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&excludeDaysLabel=EBEBEB&fire=0B36D8A0" alt="GitHub Streak" style="height: 194px;">
+        <img 
+            src="https://streak-stats.demolab.com?user=joaosouzaa01&theme=transparent&background=26%2C1A5D7B%2C13445A6E&border=00000000&stroke=FFFFFF&ring=FFFFFF&dates=FFFFFF&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&excludeDaysLabel=EBEBEB&fire=0B36D8A0" 
+            alt="GitHub Streak" 
+            style="height: 194px;"
+        >
     </a>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosouzaa01&layout=compact&theme=transparent&bg_color=26%2C1A5D7B%2C13445A6E&title_color=EBEBEB&text_color=EBEBEB&border_color=00000000" alt="Compact layout" style="height: 194px">
+    <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosouzaa01&layout=compact&theme=transparent&bg_color=26%2C1A5D7B%2C13445A6E&title_color=EBEBEB&text_color=EBEBEB&border_color=00000000" 
+        alt="Compact layout" 
+        style="height: 194px"
+    >
 </div>
