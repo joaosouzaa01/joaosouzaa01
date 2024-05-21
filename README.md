@@ -16,11 +16,11 @@
 <div align="center">
     <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com/?user=joaosouzaa01&theme=transparent&background=26%2C1A5D7B%2C13445A6E&border=00000000&stroke=FFFFFF&ring=FFFFFF&dates=FFFFFF&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&excludeDaysLabel=EBEBEB&fire=0B36D8A0"
-            alt="GitHub Streak" style="height: 144px;">
+            alt="GitHub Streak" style="height: 154px;">
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosouzaa01&layout=compact&theme=transparent&bg_color=26%2C1A5D7B%2C13445A6E&title_color=EBEBEB&text_color=EBEBEB&border_color=00000000"
-          alt="Compact layout" style="height: 144px;">
+          alt="Compact layout" style="height: 154px;">
     </a>
 </div>
     
