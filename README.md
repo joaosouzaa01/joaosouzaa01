@@ -19,8 +19,10 @@
             alt="GitHub Streak" style="height: 144px;">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp; <!-- Espaço horizontal -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosouzaa01&layout=compact&theme=transparent&bg_color=26%2C1A5D7B%2C13445A6E&title_color=EBEBEB&text_color=EBEBEB&border_color=00000000"
-        alt="Compact layout" style="height: 144px">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosouzaa01&layout=compact&theme=transparent&bg_color=26%2C1A5D7B%2C13445A6E&title_color=EBEBEB&text_color=EBEBEB&border_color=00000000"
+          alt="Compact layout" style="height: 144px">
+    </a>
 </div>
     
 </div>
