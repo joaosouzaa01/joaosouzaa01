@@ -10,3 +10,9 @@
 
 </div>
     <br>
+<!-- GIT HUB STATUS -->
+    <div>
+    
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=joaosouzaa01&theme=transparent&background=26%2C1A5D7B%2C13445A6E&border=00000000&stroke=FFFFFF&ring=FFFFFF&dates=FFFFFF&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&excludeDaysLabel=EBEBEB&fire=0B36D8A0" alt="GitHub Streak" /></a>
+
+</div>
