@@ -34,9 +34,6 @@
   </div>
   <br>
 
-    
-
-
 <!-- GIT HUB STATUS -->
 <div align="center">
     <!-- <a href="https://git.io/streak-stats"> -->
@@ -49,8 +46,15 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosouzaa01&layout=compact&theme=transparent&bg_color=26%2C1A5D7B%2C13445A6E&title_color=EBEBEB&text_color=EBEBEB&border_color=00000000"
           alt="Compact layout" style="height: 164px;">
     </a>
-
 </div>
-    
+<br>
+  <hr>
+<br>
+<div>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=600&size=24&pause=1000&color=195874&center=true&random=false&width=435&lines=Linguagens+e+Ferramentas%3A" alt="Typing SVG" /></a>
+  
+</div>
+
+
 </div>
  
