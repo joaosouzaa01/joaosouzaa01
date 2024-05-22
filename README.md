@@ -52,7 +52,7 @@
 
 <!-- TEXTO ANIMADO -->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=600&size=24&pause=1000&color=195874&center=true&random=false&width=435&lines=Linguagens+e+Ferramentas%3A" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=600&size=24&pause=1000&color=195874&center=true&random=false&width=435&lines=Linguagens+e+ferramentas;+Languages+%E2%80%8B%E2%80%8Band+tools" alt="Typing SVG" /></a>
 </div>
 <br>
   <div align="center">
