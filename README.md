@@ -72,7 +72,7 @@
   <br>
     <hr color="#195874">  
   <br>
-  <div>
+  <div align="center">
         <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white">
         <img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white">
         <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
@@ -88,7 +88,7 @@
         <img alt="Spotify" src="https://img.shields.io/badge/Spotify-000.svg?&style=flat-square&logo=spotify&logoColor=1ED760">
         <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-5849BE?logo=insomnia&logoColor=white" />
         <img alt="Npm" src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white" />
-        
+
   </div>
 
 </div>
