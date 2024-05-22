@@ -57,17 +57,17 @@
 <br>
 
   <div align="center">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-195874.svg?logo=javascript&logoColor=white">
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-195874.svg?logo=node.js&logoColor=white">
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-195874.svg?logo=typescript&logoColor=white">
-    <img alt="React" src="https://img.shields.io/badge/React-195874.svg?logo=react&logoColor=%2361DAFB">
-    <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-195874.svg?logo=cs2&logoColor=white">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-195874.svg?logo=bootstrap&logoColor=white">
-    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-195874.svg?logo=express&logoColor=white">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS-195874.svg?logo=css3&logoColor=white">
-    <img alt="HTML" src="https://img.shields.io/badge/HTML-195874.svg?logo=html5&logoColor=white">
-    <img alt="Sass" src="https://img.shields.io/badge/Sass-195874?logo=sass&logoColor=white" />
-    <img alt="Prettier" src="https://img.shields.io/badge/Prettier-195874?logo=prettier&logoColor=white" />
+      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
+    <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
+    <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
+    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
+    <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white" />
+    <img alt="Prettier" src="https://img.shields.io/badge/Prettier-131a1e?logo=prettier&logoColor=white" />
   </div>
   <br>
     <hr color="#195874">  
