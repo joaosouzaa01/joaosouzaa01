@@ -55,6 +55,7 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=600&size=24&pause=1000&color=195874&center=true&random=false&width=435&lines=Linguagens+e+ferramentas;+Languages+%E2%80%8B%E2%80%8Band+tools" alt="Typing SVG" /></a>
 </div>
 <br>
+
   <div align="center">
       <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
@@ -68,7 +69,27 @@
     <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white" />
     <img alt="Prettier" src="https://img.shields.io/badge/Prettier-131a1e?logo=prettier&logoColor=white" />
   </div>
-
+  <br>
+    <hr color="#195874">  
+  <br>
+  <div>
+        <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white">
+        <img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white">
+        <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
+        <img alt="Git" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git">
+        <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github">
+        <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
+        <img alt="Linux" src="https://img.shields.io/badge/-Linux-000?&logo=Linux">
+        <img alt="Windows" src="https://img.shields.io/badge/Windows-000.svg?&style=flat-square&logo=windows&logoColor=0078D6">
+        <img alt="PowerShell" src="https://img.shields.io/badge/Terminal-000.svg?&style=flat-square&logo=powershell&logoColor=white">
+        <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
+        <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+        <img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white">
+        <img alt="Spotify" src="https://img.shields.io/badge/Spotify-000.svg?&style=flat-square&logo=spotify&logoColor=1ED760">
+        <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-5849BE?logo=insomnia&logoColor=white" />
+        <img alt="Npm" src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white" />
+        
+  </div>
 
 </div>
  
