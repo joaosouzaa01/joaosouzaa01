@@ -1,17 +1,18 @@
  <!-- CAPSULA -->
-  <div align="center">
+  <div align="center" margin-botton="-20px">
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=195874FF&height=120&section=header" alt="ondas"/>
   </div>
   <br>
   
 <!-- SPOTIFY -->
-<div margin-top="-50px">
+<div>
 
   <!-- <a href="https://spotify-github-profile.vercel.app/api/view?uid=120xk7h6bwa602uzml52jdz9w&redirect=true"> -->
   <a>
       <img src="https://spotify-github-profile.vercel.app/api/view?uid=120xk7h6bwa602uzml52jdz9w&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=true&bar_color=133a4a&bar_color_cover=false" alt="Spotify">
   </a>
 </div>
+<br>
     
 <!-- TEXTO ANIMADO -->
 <div align="center">
