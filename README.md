@@ -21,8 +21,6 @@
   </a>
 </div>
 <br>
-    
-
 
 <!-- REDES SOCIAIS -->
 <div align="center">
