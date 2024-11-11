@@ -11,16 +11,6 @@
 </div>
 <br> 
 
-<!-- SPOTIFY -->
-<div>
-
-  <!-- <a href="https://spotify-github-profile.vercel.app/api/view?uid=120xk7h6bwa602uzml52jdz9w&redirect=true"> -->
-  <a>
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=120xk7h6bwa602uzml52jdz9w&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=5d6dea&bar_color_cover=true"></a>
-  </a>
-</div>
-<br>
-
 <!-- REDES SOCIAIS -->
 <div align="center">
     <a href="https://www.instagram.com/joaooaqui/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
